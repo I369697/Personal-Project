@@ -1,0 +1,7 @@
+target/com.songr.services.contract/META-INF
+target/com.songr.services.contract/WEB-INF/classes
+target/com.songr.services.contract/WEB-INF/lib/*.jar
+target
+.idea
+.settings
+.project
